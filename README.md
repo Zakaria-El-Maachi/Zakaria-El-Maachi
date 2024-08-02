@@ -9,7 +9,7 @@ I am currently a computer science student at the College of Computing, Universit
 ## 📧 Looking for Internships
 
 I am currently seeking internships in Computer Science to further apply my skills and contribute to innovative projects. If you have any opportunities, please reach out to me at: 
-**zakaria.elmaachi@um6p.ma** or at [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)]([https://www.linkedin.com/in/zakaria-el-maachi](https://www.linkedin.com/in/zakaria-el-ma%C3%A2chi-694b6522a/))
+**zakaria.elmaachi@um6p.ma** or at [LinkedIn](https://www.linkedin.com/in/zakaria-el-ma%C3%A2chi-694b6522a/)
 
 Feel free to connect with me!
 
@@ -37,6 +37,6 @@ My background in competitive programming has significantly enhanced my understan
 
 ---
 
-Thank you for visiting my GitHub profile! 😊
+Thank you for visiting my GitHub profile!
 
 ---
