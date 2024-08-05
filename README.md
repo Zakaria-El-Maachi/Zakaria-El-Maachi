@@ -2,7 +2,8 @@
 
 ## Passionate Computer Science Engineer in the Making 🖥️
 
-I am currently a computer science student at the College of Computing, University Mohammed VI. I am deeply passionate about the field, especially when it comes to tinkering with low-level concepts and truly understanding how things work behind the scenes. Rather than just using libraries or ready-made tools without comprehension, I dive deep into the intricacies of software engineering and artificial intelligence.
+I am currently a computer science student at the College of Computing, University Mohammed VI.\\
+I am deeply passionate about the field, especially when it comes to tinkering with low-level concepts and truly understanding how things work behind the scenes.
 
 ---
 
@@ -10,8 +11,6 @@ I am currently a computer science student at the College of Computing, Universit
 
 I am currently seeking internships in Computer Science to further apply my skills and contribute to innovative projects. If you have any opportunities, please reach out to me at: 
 **zakaria.elmaachi@um6p.ma** or at [LinkedIn](https://www.linkedin.com/in/zakaria-el-ma%C3%A2chi-694b6522a/)
-
-Feel free to connect with me!
 
 ---
 
