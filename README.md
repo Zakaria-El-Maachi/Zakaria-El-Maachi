@@ -2,7 +2,7 @@
 
 ## Passionate Computer Science Engineer in the Making 🖥️
 
-I am currently a computer science student at the College of Computing, University Mohammed VI.\\
+I am currently a computer science student at the College of Computing, University Mohammed VI.<br/>
 I am deeply passionate about the field, especially when it comes to tinkering with low-level concepts and truly understanding how things work behind the scenes.
 
 ---
